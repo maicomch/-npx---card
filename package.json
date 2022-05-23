@@ -1,0 +1,19 @@
+{
+  "name": "maicom",
+  "version": "1.0.13",
+  "description": "Meu card",
+  "main": "card.js",
+  "bin": "./card.js",
+  "scripts": {
+    "test": "",
+    "pub": "",
+    "devStart": ""
+  },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0"
+  },
+  "keywords": [],
+  "author": "maicom",
+  "license": "MIT"
+}
